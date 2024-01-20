@@ -13,3 +13,8 @@ paramètres  pour obtenir une classification plus fine.
 - Le notebook 1 concerne l'analyse exploratoire des données.
 - Le notebook 2 contient tous les essais de clustering. C'est le plus fourni, de loin (avec représentations graphiques)
 - Le notebook 3 contient une simulation visant à estimer la fréquence nécessaire de mise à jour de notre clustering.
+
+# 3. Enjeux globaux
+
+Ce projet m'a permis d'apprendre, entre autres, la mise en place d'un apprentisage non supervisé et son utilisation, 
+ainsi que des moyens d'effectuer une simulation de maintenance. 
